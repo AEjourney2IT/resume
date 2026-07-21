@@ -1,0 +1,148 @@
+{
+  "name": "Alan Escobar",
+  "title": "IT Support Specialist",
+  "contact": {
+    "email": "alan.escobar32@yahoo.com",
+    "phone": "310-775-1500",
+    "linkedin": "https://linkedin.com/in/aescobar-t2",
+    "github": "https://github.com/AEjourney2IT"
+  },
+
+  "summary": "IT Support Specialist experienced in troubleshooting hardware, software, and network issues across Windows and macOS environments. Skilled in Microsoft 365 administration, user authentication, workstation deployment, and mobile device management. Strong background in documentation, onboarding/offboarding, and process improvement. Security+ and ISC2 CC certified with SOC analyst training in incident analysis and enterprise security concepts.",
+
+  "skills": {
+    "support": [
+      "Windows/macOS troubleshooting",
+      "Microsoft 365 support",
+      "Hardware/software/printer diagnostics",
+      "Workstation setup and deployment"
+    ],
+    "identity": [
+      "Password resets",
+      "Account unlocks",
+      "MFA administration (Duo, Google/Microsoft Authenticator)"
+    ],
+    "device": [
+      "Imaging and OS installations",
+      "Device refreshes",
+      "Asset tracking",
+      "SimpleMDM enrollment and management"
+    ],
+    "networking": [
+      "VPN support",
+      "Wi-Fi troubleshooting",
+      "Remote access support"
+    ],
+    "documentation": [
+      "ConnectWise ticketing",
+      "Onboarding/offboarding",
+      "SOP creation",
+      "Knowledge base contributions"
+    ],
+    "security": [
+      "CompTIA Security+",
+      "ISC2 CC",
+      "Security monitoring tools",
+      "Endpoint compliance awareness"
+    ],
+    "tools": [
+      "Microsoft 365",
+      "Slack",
+      "Zoom",
+      "Ubuntu Linux (home use)",
+      "AI-assisted scripting"
+    ]
+  },
+
+  "certifications": [
+    "CompTIA A+ (Expected 2026)",
+    "CompTIA Security+ (2023)",
+    "ISC2 Certified in Cybersecurity (2024)"
+  ],
+
+  "experience": [
+    {
+      "company": "SharkEye Technology Services, LLC",
+      "role": "Tech Support",
+      "location": "Martinez, CA",
+      "dates": "07/2025 – Present",
+      "bullets": [
+        "Primary support for end‑user hardware, software, and network issues",
+        "Troubleshoot Windows systems, authentication issues, and Microsoft 365 problems",
+        "Document incidents and SOPs to improve service efficiency",
+        "Assist with workstation setup, deployment, and asset management"
+      ]
+    },
+    {
+      "company": "Freelance IT Services",
+      "role": "Project‑Based IT Support",
+      "location": "Dallas, TX",
+      "dates": "04/2024 – 12/2024",
+      "bullets": [
+        "Provided tier 1/2 support for hardware, software, account access, and connectivity",
+        "Managed tickets in ConnectWise; supported onboarding/offboarding",
+        "Handled workstation setup, device deployment, and documentation",
+        "Performed OS installs, device refreshes, and user migrations"
+      ]
+    },
+    {
+      "company": "CyberNow Labs",
+      "role": "SOC Analyst (Training Program)",
+      "location": "Remote",
+      "dates": "04/2023 – 02/2024",
+      "bullets": [
+        "Completed hands‑on SOC training focused on incident analysis and Microsoft security technologies",
+        "Worked with SIEM tools, investigative workflows, and documentation",
+        "Developed familiarity with email security, identity protection, and compliance"
+      ]
+    },
+    {
+      "company": "Cencora, Inc.",
+      "role": "Accounts Receivable Specialist",
+      "location": "Carrollton, TX",
+      "dates": "08/2022 – 10/2024",
+      "bullets": [
+        "Managed high‑volume requests with accuracy and service expectations",
+        "Resolved discrepancies through detailed research and documentation",
+        "Improved workflow efficiency by 15% through process optimization",
+        "Reduced resolution times by 20% using structured follow‑up practices"
+      ]
+    },
+    {
+      "company": "Associa CSSC",
+      "role": "Settlement Specialist",
+      "location": "Richardson, TX",
+      "dates": "05/2021 – 08/2022",
+      "bullets": [
+        "Processed high‑volume transactions with strict quality and compliance",
+        "Exceeded productivity goals consistently",
+        "Collaborated across departments to resolve issues"
+      ]
+    },
+    {
+      "company": "Los Angeles County DHS",
+      "role": "Senior Clerk",
+      "location": "Los Angeles, CA",
+      "dates": "06/2014 – 10/2019",
+      "bullets": [
+        "Managed operational records and asset documentation",
+        "Trained staff on procedures and workflow best practices",
+        "Coordinated with stakeholders to maintain accuracy and compliance"
+      ]
+    }
+  ],
+
+  "additionalExperience": [
+    "Customer Service Delivery Driver – Kroger",
+    "Driver – Uber Technologies",
+    "Package Handler – FedEx Ground",
+    "Eligibility Specialist – Texas HHS Commission"
+  ],
+
+  "education": {
+    "school": "El Camino College",
+    "program": "Accounting Coursework",
+    "location": "Torrance, CA",
+    "date": "12/2017"
+  }
+}
