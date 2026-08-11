@@ -8,7 +8,7 @@
     "github": "https://github.com/AEjourney2IT"
   },
 
-  "summary": "IT Support Specialist experienced in troubleshooting hardware, software, and network issues across Windows and macOS environments. Skilled in Microsoft 365 administration, user authentication, workstation deployment, and mobile device management. Strong background in documentation, onboarding/offboarding, and process improvement. Security+ and ISC2 CC certified with SOC analyst training in incident analysis and enterprise security concepts.",
+  "summary": "IT Support Specialist with experience troubleshooting hardware, software, Microsoft 365, and user access issues across Windows and macOS environments. Skilled in documenting technical procedures, onboarding users, and providing clear guidance to technical and non-technical audiences. CompTIA Security+ and ISC2 Certified in Cybersecurity credentialed, with hands-on training in security operations and enterprise technologies. Recognized for strong communication, collaboration, and a customer-focused approach to helping others learn and successfully use technology.",
 
   "skills": {
     "support": [
@@ -20,13 +20,15 @@
     "identity": [
       "Password resets",
       "Account unlocks",
+      "User authentication",
       "MFA administration (Duo, Google/Microsoft Authenticator)"
     ],
     "device": [
       "Imaging and OS installations",
       "Device refreshes",
       "Asset tracking",
-      "SimpleMDM enrollment and management"
+      "SimpleMDM enrollment and management",
+      "iOS/Android familiarity"
     ],
     "networking": [
       "VPN support",
@@ -67,10 +69,11 @@
       "location": "Martinez, CA",
       "dates": "07/2025 – Present",
       "bullets": [
-        "Primary support for end‑user hardware, software, and network issues",
-        "Troubleshoot Windows systems, authentication issues, and Microsoft 365 problems",
-        "Document incidents and SOPs to improve service efficiency",
-        "Assist with workstation setup, deployment, and asset management"
+        "Primary point of contact for end‑user hardware, software, and network connectivity issues",
+        "Resolve Windows, Microsoft 365, and authentication issues while guiding end users through troubleshooting steps",
+        "Create support documentation and procedural guides that improve knowledge sharing and issue resolution",
+        "Assist with workstation setup, device deployment, and asset management",
+        "Deliver customer‑focused support while meeting established response expectations"
       ]
     },
     {
@@ -79,10 +82,9 @@
       "location": "Dallas, TX",
       "dates": "04/2024 – 12/2024",
       "bullets": [
-        "Provided tier 1/2 support for hardware, software, account access, and connectivity",
-        "Managed tickets in ConnectWise; supported onboarding/offboarding",
-        "Handled workstation setup, device deployment, and documentation",
-        "Performed OS installs, device refreshes, and user migrations"
+        "Delivered Tier 1/2 support for Windows, Microsoft 365, hardware, and connectivity issues, explaining technical concepts to users of varying experience levels",
+        "Supported onboarding/offboarding by following documented procedures and assisting with account access, device setup, and technology orientation",
+        "Produced support documentation and process guides to improve consistency and knowledge transfer"
       ]
     },
     {
@@ -91,9 +93,11 @@
       "location": "Remote",
       "dates": "04/2023 – 02/2024",
       "bullets": [
-        "Completed hands‑on SOC training focused on incident analysis and Microsoft security technologies",
-        "Worked with SIEM tools, investigative workflows, and documentation",
-        "Developed familiarity with email security, identity protection, and compliance"
+        "Completed hands‑on cybersecurity training covering incident analysis, Microsoft security technologies, and enterprise security concepts",
+        "Used security monitoring tools and investigative workflows to strengthen analytical and documentation skills",
+        "Collaborated with peers in study groups and team‑based exercises to reinforce technical concepts",
+        "Used learning platforms and performance feedback to track progress and support continuous skill development",
+        "Developed technical documentation and communicated findings during group activities, strengthening knowledge‑sharing skills"
       ]
     },
     {
