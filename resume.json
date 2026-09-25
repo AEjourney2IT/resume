@@ -2,89 +2,119 @@
   "name": "Alan Escobar",
   "title": "IT Support Specialist",
   "contact": {
+    "location": "San Ramon, CA",
     "email": "alan.escobar32@yahoo.com",
-    "phone": "310-775-1500",
     "linkedin": "https://linkedin.com/in/aescobar-t2",
     "github": "https://github.com/AEjourney2IT"
   },
 
-  "summary": "IT Support Specialist with experience troubleshooting hardware, software, Microsoft 365, and user access issues across Windows and macOS environments. Skilled in documenting technical procedures, onboarding users, and providing clear guidance to technical and non-technical audiences. CompTIA Security+ and ISC2 Certified in Cybersecurity credentialed, with hands-on training in security operations and enterprise technologies. Recognized for strong communication, collaboration, and a customer-focused approach to helping others learn and successfully use technology.",
+  "summary": "Tier 1 IT support technician at a managed service provider (MSP), handling up to 50 tickets a day across about 100 client organizations, from individual users to small businesses. Hands-on with Windows 10/11, Microsoft 365, ConnectWise Automate/Manage, and SimpleMDM, including Windows 11 upgrades, MFA rollouts, and workstation cloning and profile migration. First responder on a live security incident, backed by CompTIA Security+ and ISC2 Certified in Cybersecurity, with CompTIA A+ in progress. Brings 10+ years of detail-driven finance, public-service, and customer-facing work: clear documentation, calm communication, and training others.",
 
-  "skills": {
-    "support": [
-      "Windows/macOS troubleshooting",
-      "Microsoft 365 support",
-      "Hardware/software/printer diagnostics",
-      "Workstation setup and deployment"
-    ],
-    "identity": [
-      "Password resets",
-      "Account unlocks",
-      "User authentication",
-      "MFA administration (Duo, Google/Microsoft Authenticator)"
-    ],
-    "device": [
-      "Imaging and OS installations",
-      "Device refreshes",
-      "Asset tracking",
-      "SimpleMDM enrollment and management",
-      "iOS/Android familiarity"
-    ],
-    "networking": [
-      "VPN support",
-      "Wi-Fi troubleshooting",
-      "Remote access support"
-    ],
-    "documentation": [
-      "ConnectWise ticketing",
-      "Onboarding/offboarding",
-      "SOP creation",
-      "Knowledge base contributions"
-    ],
-    "security": [
-      "CompTIA Security+",
-      "ISC2 CC",
-      "Security monitoring tools",
-      "Endpoint compliance awareness"
-    ],
-    "tools": [
-      "Microsoft 365",
-      "Slack",
-      "Zoom",
-      "Ubuntu Linux (home use)",
-      "AI-assisted scripting"
-    ]
-  },
+  "skills": [
+    {
+      "label": "Support & Troubleshooting",
+      "items": [
+        "Windows 10/11",
+        "Microsoft 365",
+        "Hardware, software & printer diagnostics",
+        "Remote support",
+        "macOS & iOS/iPadOS (light)"
+      ]
+    },
+    {
+      "label": "Identity & Access",
+      "items": [
+        "Password resets & account unlocks (Active Directory)",
+        "User account provisioning",
+        "MFA rollout & support (Microsoft 365)",
+        "VPN setup with 2FA"
+      ]
+    },
+    {
+      "label": "Endpoint & Devices",
+      "items": [
+        "Workstation setup & deployment",
+        "Windows 10 → 11 upgrades",
+        "Imaging, cloning & profile migration",
+        "Asset tagging & tracking",
+        "SimpleMDM (iPhone/iPad)",
+        "Unauthorized software removal"
+      ]
+    },
+    {
+      "label": "Networking",
+      "items": [
+        "VPN & Wi-Fi troubleshooting",
+        "DNS, DHCP, TCP/IP",
+        "Remote access support"
+      ]
+    },
+    {
+      "label": "Security",
+      "items": [
+        "Incident first response & escalation",
+        "Alert triage",
+        "VirusTotal, AbuseIPDB, MXToolbox",
+        "SIEM/EDR training: Splunk, QRadar, CrowdStrike, SentinelOne"
+      ]
+    },
+    {
+      "label": "Tools & Platforms",
+      "items": [
+        "ConnectWise Automate/Manage",
+        "Slack & Zoom",
+        "Linux (Debian, Ubuntu)",
+        "VMware, VirtualBox, Proxmox",
+        "WordPress",
+        "AI tools (Claude, ChatGPT, Copilot)"
+      ]
+    },
+    {
+      "label": "Documentation",
+      "items": [
+        "Ticket documentation",
+        "SOPs & knowledge base",
+        "Onboarding/offboarding",
+        "End-user training"
+      ]
+    }
+  ],
 
   "certifications": [
-    "CompTIA A+ (Expected 2026)",
-    "CompTIA Security+ (2023)",
-    "ISC2 Certified in Cybersecurity (2024)"
+    { "name": "CompTIA A+", "status": "In Progress" },
+    { "name": "CompTIA Security+", "status": "2023" },
+    { "name": "ISC2 Certified in Cybersecurity (CC)", "status": "2024" }
   ],
 
   "experience": [
     {
       "company": "SharkEye Technology Services, LLC",
-      "role": "Tech Support",
+      "role": "Tech Support I (MSP)",
       "location": "Martinez, CA",
       "dates": "07/2025 – Present",
       "bullets": [
-        "Primary point of contact for end‑user hardware, software, and network connectivity issues",
-        "Resolve Windows, Microsoft 365, and authentication issues while guiding end users through troubleshooting steps",
-        "Create support documentation and procedural guides that improve knowledge sharing and issue resolution",
-        "Assist with workstation setup, device deployment, and asset management",
-        "Deliver customer‑focused support while meeting established response expectations"
+        "Handle up to 50 support tickets a day across about 100 MSP clients, from individual users to small businesses; resolve Tier 1 issues and escalate complex cases with clear diagnostic notes",
+        "Reviewed about 30 systems for Windows 11 eligibility and upgraded about 15 qualifying workstations from Windows 10 to 11",
+        "Rolled out Microsoft 365 MFA at 2 client organizations (about 7–15 users each)",
+        "First responder on an active intrusion: recognized unauthorized remote control, had the client disconnect the device, blocked network interfaces per Tier 2 guidance, escalated to Tier 2 and Engineering, and helped collect incident artifacts (Event Viewer logs, download and email history, installed software)",
+        "Set up new users and workstations; cloned computers to new hardware and verified that local data and user profiles transferred; configured VPN access with 2FA",
+        "Enrolled iPhones and iPads in SimpleMDM and reset iPads for redeployment or retirement",
+        "Used ConnectWise Automate/Manage for remote sessions, scheduled maintenance, log review, and alert investigation; tagged new assets to naming conventions",
+        "Removed unauthorized software, including leftover files and scheduled tasks, and ran full antivirus scans",
+        "Served as interim dispatcher for about 2 months: assigned tickets to all technicians, answered client phone lines, and coordinated onsite visits"
       ]
     },
     {
       "company": "Freelance IT Services",
-      "role": "Project‑Based IT Support",
+      "role": "Project-Based IT Support",
       "location": "Dallas, TX",
       "dates": "04/2024 – 12/2024",
       "bullets": [
-        "Delivered Tier 1/2 support for Windows, Microsoft 365, hardware, and connectivity issues, explaining technical concepts to users of varying experience levels",
-        "Supported onboarding/offboarding by following documented procedures and assisting with account access, device setup, and technology orientation",
-        "Produced support documentation and process guides to improve consistency and knowledge transfer"
+        "Provided remote and onsite Tier 1/2 support for hardware, software, printer, and network connectivity issues",
+        "Configured Microsoft 365 accounts and resolved email, authentication, and productivity app issues",
+        "Logged and managed tickets in ConnectWise; supported onboarding/offboarding with device prep, account setup, and first-day walkthroughs",
+        "Performed device refreshes, operating system installations, and user migrations",
+        "Managed a WordPress website on an Apache2 Linux server with cloud hosting"
       ]
     },
     {
@@ -93,11 +123,10 @@
       "location": "Remote",
       "dates": "04/2023 – 02/2024",
       "bullets": [
-        "Completed hands‑on cybersecurity training covering incident analysis, Microsoft security technologies, and enterprise security concepts",
-        "Used security monitoring tools and investigative workflows to strengthen analytical and documentation skills",
-        "Collaborated with peers in study groups and team‑based exercises to reinforce technical concepts",
-        "Used learning platforms and performance feedback to track progress and support continuous skill development",
-        "Developed technical documentation and communicated findings during group activities, strengthening knowledge‑sharing skills"
+        "Completed practical SOC training in incident analysis and enterprise security, working shifts in a team of 3–5 analysts",
+        "Triaged EDR and SIEM alerts; reviewed sample alerts for brute-force attempts, phishing indicators, and suspicious activity",
+        "Built familiarity with email security, identity protection, and compliance best practices",
+        "Training tools: Splunk ES, IBM QRadar, CrowdStrike Falcon, SentinelOne"
       ]
     },
     {
@@ -106,41 +135,69 @@
       "location": "Carrollton, TX",
       "dates": "08/2022 – 10/2024",
       "bullets": [
-        "Managed high‑volume requests with accuracy and service expectations",
-        "Resolved discrepancies through detailed research and documentation",
-        "Improved workflow efficiency by 15% through process optimization",
-        "Reduced resolution times by 20% using structured follow‑up practices"
+        "Made outbound collection calls on past-due accounts following SOW/SOP guidelines and KPIs",
+        "Managed credit holds for an assigned portfolio and maintained SLA adherence through timely escalation",
+        "Identified payment discrepancies and initiated dispute resolution",
+        "Improved workflow efficiency by 15% and cut resolution times by 20% through structured follow-up",
+        "Supported coworkers with basic software troubleshooting and documented recurring issues"
       ]
     },
     {
-      "company": "Associa CSSC",
+      "company": "Associa, Inc. – Community Shared Services Center",
       "role": "Settlement Specialist",
       "location": "Richardson, TX",
-      "dates": "05/2021 – 08/2022",
+      "dates": "06/2021 – 08/2022",
       "bullets": [
-        "Processed high‑volume transactions with strict quality and compliance",
-        "Exceeded productivity goals consistently",
-        "Collaborated across departments to resolve issues"
+        "Processed 65+ settlement transactions a day while meeting strict quality and compliance standards",
+        "Reduced settlement processing time by 10% through workflow optimization",
+        "Exceeded productivity goals by 30% through consistent process adherence",
+        "Followed jurisdiction rules closely and handled calls professionally"
       ]
     },
     {
-      "company": "Los Angeles County DHS",
+      "company": "Los Angeles County Department of Health Services – Supply Chain",
       "role": "Senior Clerk",
       "location": "Los Angeles, CA",
-      "dates": "06/2014 – 10/2019",
+      "dates": "12/2016 – 10/2019",
+      "note": "Promoted from Account Clerk II, LA County Treasurer and Tax Collector",
       "bullets": [
-        "Managed operational records and asset documentation",
-        "Trained staff on procedures and workflow best practices",
-        "Coordinated with stakeholders to maintain accuracy and compliance"
+        "Led and supervised a team of 7 in the Invoice Processing Unit, including through a software change",
+        "Managed a $5M account with structured reconciliation, keeping aging under 30 days",
+        "Reviewed and approved 500+ backlogged invoices in 10 hours, totaling over $200,000 in payments",
+        "Trained new staff on department software, data entry, and troubleshooting"
       ]
+    },
+    {
+      "company": "Los Angeles County Treasurer and Tax Collector",
+      "role": "Account Clerk II",
+      "location": "Los Angeles, CA",
+      "dates": "06/2014 – 12/2016",
+      "bullets": [
+        "Cleared a six-month backlog of property tax refund claims",
+        "Processed and reviewed up to 100 refunds and exemption claims a day; maintained a five-year property tax trust account",
+        "Answered public inquiries and supported other units during high-volume tax season"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Windows 10 Pro Upgrade Journey",
+      "url": "https://github.com/AEjourney2IT/Windows10-Pro-Upgrade-Journey",
+      "description": "Documented rebuilding an LG Gram laptop from a bare system into an optimized Windows 10 Pro workstation: clean install, activation, updates, and tuning with the CTT Windows Utility and PowerShell."
+    },
+    {
+      "name": "Homelab: Windows 11 VM Setup",
+      "url": "https://github.com/AEjourney2IT/homelab-windows11-vm-setup",
+      "description": "In progress: a guide to building a minimal Windows 11 Pro virtual machine for a homelab, with optimization tips."
     }
   ],
 
   "additionalExperience": [
     "Customer Service Delivery Driver – Kroger",
-    "Driver – Uber Technologies",
+    "Driver – Uber (Dallas and SF Bay Area)",
     "Package Handler – FedEx Ground",
-    "Eligibility Specialist – Texas HHS Commission"
+    "MEPD Eligibility Specialist – Texas Health and Human Services Commission"
   ],
 
   "education": {
