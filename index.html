@@ -3,46 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="style.css" rel="stylesheet">
     <title>Alan Escobar – IT Support Specialist</title>
+    <meta name="description" content="Alan Escobar – Tier 1 MSP IT support technician in the San Francisco Bay Area. Windows 10/11, Microsoft 365, ConnectWise, SimpleMDM. CompTIA Security+, ISC2 CC, A+ in progress.">
+
+    <!-- Link previews (LinkedIn, Slack, etc.) -->
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="Alan Escobar – IT Support Specialist">
+    <meta property="og:description" content="Tier 1 MSP IT support technician. Windows 10/11, Microsoft 365, ConnectWise, SimpleMDM. CompTIA Security+, ISC2 CC, A+ in progress.">
+    <meta property="og:url" content="https://aejourney2it.github.io/resume/">
+    <meta name="twitter:card" content="summary">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
     <header id="header">
-        <h1 id="name"></h1>
+        <h1 id="name">Alan Escobar</h1>
         <hr>
-        <div id="title"></div>
+        <div id="title">IT Support Specialist</div>
         <hr>
+        <button id="printBtn" type="button" onclick="window.print()">Download PDF</button>
     </header>
+
+    <noscript>
+        <p class="noscript">This page needs JavaScript to show the full resume. You can also reach me on
+        <a href="https://linkedin.com/in/aescobar-t2">LinkedIn</a>.</p>
+    </noscript>
 
     <main>
         <article id="mainLeft">
 
             <!-- CONTACT -->
             <section>
-                <h2>CONTACT</h2>
+                <h2>Contact</h2>
                 <div id="contact"></div>
-            </section>
-
-            <!-- SKILLS -->
-            <section>
-                <h2>TECHNICAL SKILLS</h2>
-                <div id="skills"></div>
             </section>
 
             <!-- CERTIFICATIONS -->
             <section>
-                <h2>CERTIFICATIONS</h2>
-                <ul>
-                    <li>CompTIA A+ (Expected 2026)</li>
-                    <li>CompTIA Security+ (2023)</li>
-                    <li>ISC2 Certified in Cybersecurity (2024)</li>
-                </ul>
+                <h2>Certifications</h2>
+                <ul id="certifications"></ul>
+            </section>
+
+            <!-- SKILLS -->
+            <section>
+                <h2>Technical Skills</h2>
+                <div id="skills"></div>
             </section>
 
             <!-- EDUCATION -->
             <section>
-                <h2>EDUCATION</h2>
+                <h2>Education</h2>
                 <div id="education"></div>
             </section>
 
@@ -52,20 +66,26 @@
 
             <!-- SUMMARY -->
             <section>
-                <h2>SUMMARY</h2>
+                <h2>Summary</h2>
                 <p id="summary"></p>
             </section>
 
             <!-- EXPERIENCE -->
             <section>
-                <h2>PROFESSIONAL EXPERIENCE</h2>
+                <h2>Professional Experience</h2>
                 <div id="experience"></div>
+            </section>
+
+            <!-- PROJECTS -->
+            <section>
+                <h2>Projects</h2>
+                <div id="projects"></div>
             </section>
 
             <!-- ADDITIONAL EXPERIENCE -->
             <section>
-                <h2>ADDITIONAL EXPERIENCE</h2>
-                <div id="additional"></div>
+                <h2>Additional Experience</h2>
+                <ul id="additional"></ul>
             </section>
 
         </article>

@@ -1,6 +1,0 @@
-# Reset Commit
-
-Resetting the repository to commit 669ea56...
-
-This commit included:
-- Previous commit message (if available)...
